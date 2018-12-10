@@ -2,7 +2,7 @@
   "name": "arts-blog",
   "version": "0.1.0",
   "private": true,
-  "homapage": "https://mariacarl.github.io/arts-blog",
+  "homepage": "https://mariacarl.github.io/arts-blog/",
   "dependencies": {
     "gh-pages": "^2.0.1",
     "react": "^16.6.3",
