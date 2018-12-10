@@ -1,13 +1,16 @@
 {
-  "main.css": "/arts-blog/static/css/main.7ea63d3b.chunk.css",
-  "main.js": "/arts-blog/static/js/main.427e420e.chunk.js",
-  "main.js.map": "/arts-blog/static/js/main.427e420e.chunk.js.map",
-  "static/js/1.324b6cf3.chunk.js": "/arts-blog/static/js/1.324b6cf3.chunk.js",
-  "static/js/1.324b6cf3.chunk.js.map": "/arts-blog/static/js/1.324b6cf3.chunk.js.map",
+  "main.css": "/arts-blog/static/css/main.4ad9f63a.chunk.css",
+  "main.js": "/arts-blog/static/js/main.c47d2c06.chunk.js",
+  "main.js.map": "/arts-blog/static/js/main.c47d2c06.chunk.js.map",
+  "static/css/1.31a765b4.chunk.css": "/arts-blog/static/css/1.31a765b4.chunk.css",
+  "static/js/1.c56cccbf.chunk.js": "/arts-blog/static/js/1.c56cccbf.chunk.js",
+  "static/js/1.c56cccbf.chunk.js.map": "/arts-blog/static/js/1.c56cccbf.chunk.js.map",
   "runtime~main.js": "/arts-blog/static/js/runtime~main.4a4d395f.js",
   "runtime~main.js.map": "/arts-blog/static/js/runtime~main.4a4d395f.js.map",
-  "static/css/main.7ea63d3b.chunk.css.map": "/arts-blog/static/css/main.7ea63d3b.chunk.css.map",
+  "static/media/semantic.min.css": "/arts-blog/static/media/brand-icons.a1a749e8.svg",
+  "static/css/main.4ad9f63a.chunk.css.map": "/arts-blog/static/css/main.4ad9f63a.chunk.css.map",
+  "static/css/1.31a765b4.chunk.css.map": "/arts-blog/static/css/1.31a765b4.chunk.css.map",
   "index.html": "/arts-blog/index.html",
-  "precache-manifest.47610c11b859d95327d7209dd39e0395.js": "/arts-blog/precache-manifest.47610c11b859d95327d7209dd39e0395.js",
+  "precache-manifest.c95be5294004ce655539d2dd0c710365.js": "/arts-blog/precache-manifest.c95be5294004ce655539d2dd0c710365.js",
   "service-worker.js": "/arts-blog/service-worker.js"
 }
